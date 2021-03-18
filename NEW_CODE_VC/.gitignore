@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.pytest_cache
+*.npy
+mro_manual_params_*.json
+mro_auto_params_*.json
++mro_manual_params.json
++mro_auto_params.json
